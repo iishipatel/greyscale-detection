@@ -1,4 +1,4 @@
-# greyscale-detection
+# Greyscale-Detection
 ### Tools used:
 - OpenCV
 - Numpy
